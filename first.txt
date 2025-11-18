@@ -1,0 +1,3 @@
+https://trailhead.salesforce.com/content/learn/projects/connect-your-agentforce-org-with-slack/prepare-your-slack-playground
+
+https://invite.salesforce.com/attagentblazerchallenge
