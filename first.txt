@@ -1,3 +1,30 @@
 https://trailhead.salesforce.com/content/learn/projects/connect-your-agentforce-org-with-slack/prepare-your-slack-playground
 
 https://invite.salesforce.com/attagentblazerchallenge
+spend 40% of your time learning Salesforce, 30% on AI related technologies and only 30% on Java related technologies
+This is because I will need less time learning Java technologies
+Focus more on breadth of knowledge and less on depth - this is because we cannot master all topics we study but should learn enough to talk about them with some command
+
+Learn what ever technologies are available at work - Microservices, Pipelines, Jenkins etc. hands
+Imagine your old application is rewritten using Microservices, docker etc. on cloud and prepare an architectural diagram
+
+
+Learn some modeling tools like Visio this is because as architect, you are supposed to know them
+Do some research on Job boards and identify the most in demand skills
+get some certifications asap
+
+
+Prepare a list of all the technologies you want to learn
+Classify it into 2 - depth list and breadth list 
+set timelines 
+Prep for interviews
+
+
+
+SF certifications
+AI concepts through Youtube
+and tools
+Internal j
+java latest handson
+Figma
+Azure
